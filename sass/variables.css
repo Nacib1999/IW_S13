@@ -1,0 +1,18 @@
+.titre1, .titre2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.titre2 {
+  color: #bc694e;
+}
+
+.parag, .parag1 {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.parag1 {
+  font-weight: regular;
+}/*# sourceMappingURL=variables.css.map */

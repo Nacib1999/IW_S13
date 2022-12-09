@@ -1,0 +1,16 @@
+// Définition d'une variable pour la couleur de fond de la navbar
+$navbar-bg-color: #f4f4f4;
+$footercolor: #f4f4f4;
+// Style pour la navbar
+.navbar {
+    background-color: $navbar-bg-color;
+    padding:40px;
+}
+.footer {
+    color: #f4f4f4;
+    background-color: $footercolor;
+    
+}
+.box{
+    border: 1rem;
+}

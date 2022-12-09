@@ -1,0 +1,23 @@
+$navcolor: #f4f4f4;
+$textcolor: #bc694e;
+.titre1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .titre2 {
+    @extend .titre1;
+    color: $textcolor;
+  }
+  
+  .parag {
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  .parag1 {
+    @extend .parag;
+    font-weight: regular;
+    
+  }
